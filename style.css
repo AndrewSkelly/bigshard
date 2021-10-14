@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+
+#navbar {
+    background-color: rgb(36, 36, 48);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    text-align: center;
+}
+
+.titletext {
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 700;
+    display: inline;
+    font-size: 28px;
+}
+
+#logo {
+    color: white;
+}
+
+#big {
+    color: white;
+    
+}
+
+#shard {
+    color: rgb(99, 71, 255);
+}
+
+.linkright {
+    text-align: center;
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(57, 57, 80);
+}
+
+#main-container {
+}
+
+.text-title {
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 500;
+    display: inline;
+    font-size: 80px;
+    color: rgb(99, 71, 255);
+}
+
+.text {
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+
+a{
+    color: rgb(99, 71, 255);
+}
+
+#article {
+    padding: 10%;
+    background-color: rgb(54, 54, 97);
+}
